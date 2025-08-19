@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import helmet from "helmet";
 import morgan from "morgan";
-import "./config/db.js";
+import "./src/config/db.js";
 import projectsRoutes from "./routes/projects.js";
 import authRoutes from "./routes/auth.js";
 

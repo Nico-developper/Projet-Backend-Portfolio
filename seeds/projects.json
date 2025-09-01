@@ -2,15 +2,8 @@
   {
     "title": "Booki – HTML/CSS",
     "description": "Intégration d'une maquette responsive en HTML/CSS.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "Responsive"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "Intégration"
-    ],
+    "tech": ["HTML", "CSS", "Responsive"],
+    "tags": ["OpenClassrooms", "Intégration"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -21,14 +14,8 @@
   {
     "title": "Sophie Bluel – JavaScript",
     "description": "Gestion d'une galerie avec JavaScript, modales et API.",
-    "tech": [
-      "JavaScript",
-      "Fetch API"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "JS"
-    ],
+    "tech": ["JavaScript", "Fetch API"],
+    "tags": ["OpenClassrooms", "JS"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -39,15 +26,8 @@
   {
     "title": "Nina Carducci – Optimisation/SEO",
     "description": "Audit de performance, SEO, accessibilité et correctifs.",
-    "tech": [
-      "Lighthouse",
-      "SEO",
-      "a11y"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "Optimisation"
-    ],
+    "tech": ["Lighthouse", "SEO", "a11y"],
+    "tags": ["OpenClassrooms", "Optimisation"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -58,16 +38,8 @@
   {
     "title": "Kasa – React",
     "description": "Application de location d’appartements en React (SPA).",
-    "tech": [
-      "React",
-      "Vite",
-      "Sass",
-      "Router"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "Front-end"
-    ],
+    "tech": ["React", "Vite", "Sass", "Router"],
+    "tags": ["OpenClassrooms", "Front-end"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -78,15 +50,8 @@
   {
     "title": "Mon Vieux Grimoire – Node/Express/MongoDB",
     "description": "API sécurisée pour la notation de livres (backend).",
-    "tech": [
-      "Node.js",
-      "Express",
-      "MongoDB"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "Back-end"
-    ],
+    "tech": ["Node.js", "Express", "MongoDB"],
+    "tags": ["OpenClassrooms", "Back-end"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -97,14 +62,8 @@
   {
     "title": "Menu Maker (Qwenta) – Planification",
     "description": "Plan de développement, gestion de projet, livrables.",
-    "tech": [
-      "Gestion de projet",
-      "Kanban"
-    ],
-    "tags": [
-      "OpenClassrooms",
-      "Planification"
-    ],
+    "tech": ["Gestion de projet", "Kanban"],
+    "tags": ["OpenClassrooms", "Planification"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",
@@ -115,15 +74,8 @@
   {
     "title": "Portfolio Nico – React + SCSS",
     "description": "Portfolio personnel responsive en React avec SCSS.",
-    "tech": [
-      "React",
-      "SCSS",
-      "Vite"
-    ],
-    "tags": [
-      "Personnel",
-      "Portfolio"
-    ],
+    "tech": ["React", "SCSS", "Vite"],
+    "tags": ["Personnel", "Portfolio"],
     "githubUrl": "",
     "demoUrl": "",
     "coverImage": "",

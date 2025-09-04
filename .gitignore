@@ -20,7 +20,7 @@ build/
 .tmp/
 .cache/
 
-# Uploads éventuels (si tu stockes des fichiers localement)
+# Uploads éventuels
 uploads/
 storage/
 tmp/
